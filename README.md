@@ -33,9 +33,12 @@ $ npm install
 ```
 ## Documentación con swagger
 
-[Swager docs imagen, aqui pueden ver los metodos disponibles y que campos son o no requeridos al momento de realizar una petición](https://docdro.id/nAlac96)
+[Swager docs imagen](https://docdro.id/nAlac96)
 ```bash
-   url local: http:localhost:3000/api/docs
+   * Al dar click en Swagger docs imagen podras ver los metodos disponibles y que campos son o no requeridos al momento de realizar una petición
+   * Para agregar el bearerToken debe dar click en el botón authorize y colocarlo en la casilla que dice value
+   
+   Url local: http:localhost:3000/api/docs
    Usuario: atmr
    Contraseña: esta en el .env (SWAGGER_PASS)
 ```
