@@ -30,6 +30,7 @@
 
 ```bash
 $ npm install
+  Colocar el archivo .env en la raiz del proyecto
 ```
 ## Documentación con swagger
 
